@@ -1,0 +1,3 @@
+device,train_seconds,allocated_mb,reserved_mb,peak_allocated_mb
+cpu,13.65022539999336,,,
+cuda,4.184396600001492,23.78759765625,104.0,65.91357421875
